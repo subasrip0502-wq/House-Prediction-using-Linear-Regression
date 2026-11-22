@@ -73,4 +73,3 @@ Learning Python, Data Analytics, and Machine Learning.
 
 ---
 
-⭐ If you find this project useful, feel free to explore the notebook!
