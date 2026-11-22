@@ -43,12 +43,15 @@ The model uses multiple house features to estimate the predicted house price.
 
 ## 📉 Visualizations
 **Actual vs Predicted Price Distribution**
+
 <img width="500" height="393" alt="image" src="https://github.com/user-attachments/assets/da2d92b2-2b50-436d-a6b7-577797a3b2b2" />
 
 **Actual vs Predicted Price Comparison**
+
 <img width="463" height="393" alt="image" src="https://github.com/user-attachments/assets/54a7e41d-c658-4dc9-8b21-381803b6ae9d" />
 
 **Regression Scatter Plot**
+
 <img width="463" height="393" alt="image" src="https://github.com/user-attachments/assets/0e6b44ad-79a6-4f7d-8607-a9bcf2302a68" />
 
 
